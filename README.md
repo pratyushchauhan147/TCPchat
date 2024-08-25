@@ -10,6 +10,7 @@ This is a TCP-based chat client with a graphical user interface (GUI) built usin
 - Input field for sending messages.
 - Notifications for new messages when the window is minimized.
 - Simple **authentication** with nickname and password.
+- Send Notification when minimised
 ## Commands
 **/list** - list all the connect socket information
 **/close** -End the program
